@@ -1,0 +1,120 @@
+Rank,Team name,Winning Percentage,Games Won,Games Lost,Games Tied,Games Played
+1,Boise State,1,13,0,0,13
+2,Florida,0.92857,13,1,0,14
+3t,Wisconsin,0.92308,12,1,0,13
+3t,Ohio State,0.92308,12,1,0,13
+3t,Louisville,0.92308,12,1,0,13
+6t,Brigham Young,0.84615,11,2,0,13
+6t,Auburn,0.84615,11,2,0,13
+6t,Louisiana State,0.84615,11,2,0,13
+6t,Southern Cal,0.84615,11,2,0,13
+6t,West Virginia,0.84615,11,2,0,13
+6t,Texas Christian,0.84615,11,2,0,13
+6t,Rutgers,0.84615,11,2,0,13
+6t,Michigan,0.84615,11,2,0,13
+14t,Hawaii,0.78571,11,3,0,14
+14t,Oklahoma,0.78571,11,3,0,14
+14t,Wake Forest,0.78571,11,3,0,14
+17t,Notre Dame,0.76923,10,3,0,13
+17t,California,0.76923,10,3,0,13
+17t,Texas,0.76923,10,3,0,13
+17t,Virginia Tech,0.76923,10,3,0,13
+17t,Boston College,0.76923,10,3,0,13
+22t,Arkansas,0.71429,10,4,0,14
+22t,Oregon State,0.71429,10,4,0,14
+22t,Central Michigan,0.71429,10,4,0,14
+22t,Houston,0.71429,10,4,0,14
+26t,Texas A&M,0.69231,9,4,0,13
+26t,Georgia,0.69231,9,4,0,13
+26t,Tennessee,0.69231,9,4,0,13
+26t,San Jose State,0.69231,9,4,0,13
+26t,Maryland,0.69231,9,4,0,13
+26t,Penn State,0.69231,9,4,0,13
+26t,Navy,0.69231,9,4,0,13
+26t,South Florida,0.69231,9,4,0,13
+34t,Ohio,0.64286,9,5,0,14
+34t,Southern Miss,0.64286,9,5,0,14
+34t,Nebraska,0.64286,9,5,0,14
+34t,Georgia Tech,0.64286,9,5,0,14
+38t,Troy,0.61538,8,5,0,13
+38t,Kentucky,0.61538,8,5,0,13
+38t,South Carolina,0.61538,8,5,0,13
+38t,Missouri,0.61538,8,5,0,13
+38t,Utah,0.61538,8,5,0,13
+38t,Nevada-Reno,0.61538,8,5,0,13
+38t,Western Michigan,0.61538,8,5,0,13
+38t,Texas Tech,0.61538,8,5,0,13
+38t,Clemson,0.61538,8,5,0,13
+38t,Tulsa,0.61538,8,5,0,13
+38t,Cincinnati,0.61538,8,5,0,13
+49,Purdue,0.57143,8,6,0,14
+50t,Arizona State,0.53846,7,6,0,13
+50t,UCLA,0.53846,7,6,0,13
+50t,Oregon,0.53846,7,6,0,13
+50t,Northern Illinois,0.53846,7,6,0,13
+50t,Rice,0.53846,7,6,0,13
+50t,Middle Tennessee State,0.53846,7,6,0,13
+50t,Kansas State,0.53846,7,6,0,13
+50t,Oklahoma State,0.53846,7,6,0,13
+50t,Miami-Florida,0.53846,7,6,0,13
+50t,East Carolina,0.53846,7,6,0,13
+60t,Louisiana-Lafayette,0.5,6,6,0,12
+60t,Arkansas State,0.5,6,6,0,12
+60t,Arizona,0.5,6,6,0,12
+60t,Washington State,0.5,6,6,0,12
+60t,Wyoming,0.5,6,6,0,12
+60t,Kent,0.5,6,6,0,12
+60t,Kansas,0.5,6,6,0,12
+60t,Pittsburgh,0.5,6,6,0,12
+60t,Southern Methodist,0.5,6,6,0,12
+69t,New Mexico,0.46154,6,7,0,13
+69t,Minnesota,0.46154,6,7,0,13
+69t,Iowa,0.46154,6,7,0,13
+72t,Washington,0.41667,5,7,0,12
+72t,Ball State,0.41667,5,7,0,12
+72t,Toledo,0.41667,5,7,0,12
+72t,Akron,0.41667,5,7,0,12
+72t,Texas-El Paso,0.41667,5,7,0,12
+72t,Florida Atlantic,0.41667,5,7,0,12
+72t,Marshall,0.41667,5,7,0,12
+72t,Indiana,0.41667,5,7,0,12
+72t,Virginia,0.41667,5,7,0,12
+81t,Louisiana-Monroe,0.33333,4,8,0,12
+81t,New Mexico State,0.33333,4,8,0,12
+81t,Idaho,0.33333,4,8,0,12
+81t,Mississippi,0.33333,4,8,0,12
+81t,Vanderbilt,0.33333,4,8,0,12
+81t,Fresno State,0.33333,4,8,0,12
+81t,Colorado State,0.33333,4,8,0,12
+81t,Air Force,0.33333,4,8,0,12
+81t,Bowling Green,0.33333,4,8,0,12
+81t,Iowa State,0.33333,4,8,0,12
+81t,Baylor,0.33333,4,8,0,12
+81t,Northwestern,0.33333,4,8,0,12
+81t,Michigan State,0.33333,4,8,0,12
+81t,Syracuse,0.33333,4,8,0,12
+81t,Tulane,0.33333,4,8,0,12
+81t,Central Florida,0.33333,4,8,0,12
+81t,Connecticut,0.33333,4,8,0,12
+98t,UAB,0.25,3,9,0,12
+98t,Army,0.25,3,9,0,12
+98t,Mississippi State,0.25,3,9,0,12
+98t,San Diego State,0.25,3,9,0,12
+98t,North Texas,0.25,3,9,0,12
+98t,North Carolina,0.25,3,9,0,12
+98t,North Carolina State,0.25,3,9,0,12
+98t,Florida State,0.25,2,6,0,8
+106,Louisiana Tech,0.23077,3,10,0,13
+107t,Colorado,0.16667,2,10,0,12
+107t,Nevada-Las Vegas,0.16667,2,10,0,12
+107t,Miami-Ohio,0.16667,2,10,0,12
+107t,Buffalo,0.16667,2,10,0,12
+107t,Illinois,0.16667,2,10,0,12
+107t,Memphis,0.16667,2,10,0,12
+113t,Stanford,0.08333,1,11,0,12
+113t,Utah State,0.08333,1,11,0,12
+113t,Eastern Michigan,0.08333,1,11,0,12
+113t,Temple,0.08333,1,11,0,12
+117t,Alabama,0,0,7,0,7
+117t,Florida International,0,0,12,0,12
+117t,Duke,0,0,12,0,12
